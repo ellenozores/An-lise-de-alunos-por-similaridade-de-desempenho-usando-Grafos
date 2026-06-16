@@ -22,8 +22,14 @@ O objetivo foi investigar como fatores como histórico de notas, reprovações, 
 
 ## 📊 Dataset
 
-Foi utilizado o **Student Performance Dataset**, composto por informações acadêmicas, sociais e comportamentais de estudantes do ensino médio de Portugal.
+## 📊 Dataset
 
+Este projeto utiliza o **Student Performance Dataset**, disponibilizado pela UCI Machine Learning Repository.
+
+**Fonte dos dados:**
+https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
+O conjunto de dados contém informações acadêmicas, sociais e comportamentais de estudantes de duas escolas secundárias de Portugal.
 ### Principais variáveis analisadas
 
 | Variável  | Descrição                              |
