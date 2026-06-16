@@ -22,8 +22,6 @@ O objetivo foi investigar como fatores como histórico de notas, reprovações, 
 
 ## 📊 Dataset
 
-## 📊 Dataset
-
 Este projeto utiliza o **Student Performance Dataset**, disponibilizado pela UCI Machine Learning Repository.
 
 **Fonte dos dados:**
