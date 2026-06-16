@@ -141,21 +141,6 @@ Isso sugere que seus perfis acadêmicos são mais semelhantes aos de outros estu
 
 ---
 
-## 📷 Exemplos de Visualizações
-
-### Rede Principal de Alunos
-
-![Rede Principal](imagens/grafo_principal.png)
-
-### Rede sem G1 e G2
-
-![Rede sem G1 e G2](imagens/grafo_semG1G2.png)
-
-### Matriz de Correlação
-
-![Heatmap](imagens/heatmap.png)
-
----
 
 ## 🚀 Como Executar
 
