@@ -145,15 +145,15 @@ Isso sugere que seus perfis acadêmicos são mais semelhantes aos de outros estu
 
 ### Rede Principal de Alunos
 
-*(Inserir imagem do grafo principal)*
+![Rede Principal](imagens/grafo_principal.png)
 
 ### Rede sem G1 e G2
 
-*(Inserir imagem do segundo grafo)*
+![Rede sem G1 e G2](imagens/grafo_semG1G2.png)
 
 ### Matriz de Correlação
 
-*(Inserir imagem do heatmap)*
+![Heatmap](imagens/heatmap.png)
 
 ---
 
@@ -192,8 +192,4 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 * Interpretação Estatística
 
 ---
-
-## 👤 Autor
-
-Projeto desenvolvido como estudo de Análise de Redes aplicado ao desempenho acadêmico utilizando Python e NetworkX.
 
